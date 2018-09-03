@@ -1,0 +1,3 @@
+rootProject.name = 'GradleModules_Sandbox'
+include 'main_project', 'library_project'
+

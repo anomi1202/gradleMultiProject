@@ -1,0 +1,4 @@
+group 'GradleModules_Sandbox_Library'
+version '1.0'
+
+apply plugin: 'java'
