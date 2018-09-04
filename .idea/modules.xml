@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleModules_Sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleModules_Sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleModules_Sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleModules_Sandbox_main.iml" group="GradleModules_Sandbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleModules_Sandbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleModules_Sandbox_test.iml" group="GradleModules_Sandbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library2_project.iml" filepath="$PROJECT_DIR$/.idea/modules/library2_project.iml" group="library2_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library2_project/library2_project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/library2_project/library2_project_main.iml" group="library2_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library2_project/library2_project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/library2_project/library2_project_test.iml" group="library2_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library_project/library_project.iml" filepath="$PROJECT_DIR$/.idea/modules/library_project/library_project.iml" group="library_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library_project/library_project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/library_project/library_project_main.iml" group="library_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library_project/library_project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/library_project/library_project_test.iml" group="library_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main_project/main_project.iml" filepath="$PROJECT_DIR$/.idea/modules/main_project/main_project.iml" group="main_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main_project/main_project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/main_project/main_project_main.iml" group="main_project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/main_project/main_project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/main_project/main_project_test.iml" group="main_project" />
+    </modules>
+  </component>
+</project>

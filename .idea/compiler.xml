@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="GradleModules_Sandbox_main" target="1.8" />
+      <module name="GradleModules_Sandbox_test" target="1.8" />
+      <module name="library2_project_main" target="1.8" />
+      <module name="library2_project_test" target="1.8" />
+      <module name="library_project_main" target="1.8" />
+      <module name="library_project_test" target="1.8" />
+      <module name="main_project_main" target="1.8" />
+      <module name="main_project_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
